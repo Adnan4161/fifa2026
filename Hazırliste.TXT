@@ -27,8 +27,9 @@ http://abd2022.xyz/live/5AP8QGH/JYHC5W1/317164.m3u8
 http://abd2022.xyz/live/5AP8QGH/JYHC5W1/317165.m3u8
 #EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 7 (2K)
 http://abd2022.xyz/live/5AP8QGH/JYHC5W1/317166.m3u8
-#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Servus Tv
-https://rbmn-live.akamaized.net/hls/live/665268/Wetterpanorama/master.m3u8
+#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg" tvg-id="CTSport.cz@SD" ,ČT Sport (720p)
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
 
 #EXTM3U
 #EXTINF:-1 group-title="VIP | WORLD CUP 2026 4K" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" tvg-name="##### ENGLISH #####" ,##### ENGLISH #####
