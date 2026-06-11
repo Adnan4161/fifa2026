@@ -337,3 +337,53 @@ http://vipduman.xyz:80/live/sefabey/sefa2026/430093.ts
 http://vipduman.xyz:80/live/sefabey/sefa2026/430094.ts
 #EXTINF:-1 tvg-id="" tvg-name="DE: ZDF (FHD)" tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="01 ⚡️ DÜNYA KUPASI",DE: ZDF (FHD)
 http://vipduman.xyz:80/live/sefabey/sefa2026/430095.ts
+
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Dünya Kupası Tekrar Yayın",REPLAY INFO ᴴᴰ
+
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:3C:4F:31&stream=2085222&extension=ts&play_token=DaRRfsdVXE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Dünya Kupası Tekrar Yayın",REPLAY 1 ᴴᴰ
+
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:3C:4F:31&stream=2085221&extension=ts&play_token=RG6mM5W8x9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Dünya Kupası Tekrar Yayın",REPLAY 2 ᴴᴰ
+
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:3C:4F:31&stream=2085220&extension=ts&play_token=Ks0yCFDMno
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Dünya Kupası Tekrar Yayın",REPLAY 3 ᴴᴰ
+
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:3C:4F:31&stream=2085219&extension=ts&play_token=Rqqd04IEYb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Dünya Kupası Tekrar Yayın",REPLAY 4 ᴴᴰ
+
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:3C:4F:31&stream=2085218&extension=ts&play_token=5TxH5ifleL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Dünya Kupası Tekrar Yayın",REPLAY 5 ᴴᴰ
+
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:3C:4F:31&stream=2085217&extension=ts&play_token=O0KpiGJ92J
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Dünya Kupası Tekrar Yayın",REPLAY 6 ᴴᴰ
+
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:3C:4F:31&stream=2085216&extension=ts&play_token=90aKk2yftm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Dünya Kupası Tekrar Yayın",270115 REPLAY 7 ᴴᴰ
+
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:3C:4F:31&stream=2085215&extension=ts&play_token=ish8ue8Fle
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Dünya Kupası Tekrar Yayın",270115 REPLAY 8 ᴴᴰ
+
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:3C:4F:31&stream=2085214&extension=ts&play_token=O327THfd1A
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Dünya Kupası Tekrar Yayın",270115 REPLAY 9 ᴴᴰ
+
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:3C:4F:31&stream=2085213&extension=ts&play_token=cjHc5O1u7V
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Dünya Kupası Tekrar Yayın",270115 REPLAY 10 ᴴᴰ
+
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:3C:4F:31&stream=2085212&extension=ts&play_token=E8VrFpHJYt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Dünya Kupası Tekrar Yayın",270115 REPLAY 11 ᴴᴰ
+
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:3C:4F:31&stream=2085211&extension=ts&play_token=m5Wa8UCPQ1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Dünya Kupası Tekrar Yayın",270115 REPLAY 12 ᴴᴰ
+
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:3C:4F:31&stream=2085210&extension=ts&play_token=l7xN6v0Mqk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Dünya Kupası Tekrar Yayın",270115 REPLAY 13 ᴴᴰ
+
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:3C:4F:31&stream=2085209&extension=ts&play_token=vQ29K5xeso
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Dünya Kupası Tekrar Yayın",270115 REPLAY 14 ᴴᴰ
+
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:3C:4F:31&stream=2085208&extension=ts&play_token=aSYrBWk7tW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Dünya Kupası Tekrar Yayın",270115 REPLAY 15 ᴴᴰ
+
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:3C:4F:31&stream=2085207&extension=ts&play_token=2JtWPcZbSz
