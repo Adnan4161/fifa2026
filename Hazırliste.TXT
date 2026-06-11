@@ -320,3 +320,35 @@ http://abd2022.xyz:80/U20YXGB/JX9K637/214284
 #EXTINF:-1 group-title="VIP | WORLD CUP 2026" tvg-logo="https://go4.pw/wc26.png" tvg-id="nbc46kdlt.us" tvg-name="TR - NO MATCH" ,TR - NO MATCH
 http://abd2022.xyz:80/U20YXGB/JX9K637/214293
 
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 (RAW)" tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="00 ⚡️ DÜNYA KUPASI",TR: TRT 1 (RAW)
+http://vipduman.xyz:80/live/aliturk01/uwx7VAvpgf/430088.ts
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1  (FHD)" tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="00 ⚡️ DÜNYA KUPASI",TR: TRT 1  (FHD)
+http://vipduman.xyz:80/live/aliturk01/uwx7VAvpgf/430089.ts
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 (HD)" tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="00 ⚡️ DÜNYA KUPASI",TR: TRT 1 (HD)
+http://vipduman.xyz:80/live/aliturk01/uwx7VAvpgf/430090.ts
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR (RAW)" tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="00 ⚡️ DÜNYA KUPASI",TR: TRT SPOR (RAW)
+http://vipduman.xyz:80/live/aliturk01/uwx7VAvpgf/430091.ts
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR (HD)" tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="00 ⚡️ DÜNYA KUPASI",TR: TRT SPOR (HD)
+http://vipduman.xyz:80/live/aliturk01/uwx7VAvpgf/430092.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii SPOR (FHD)" tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="00 ⚡️ DÜNYA KUPASI",TR: Tabii SPOR (FHD)
+http://vipduman.xyz:80/live/aliturk01/uwx7VAvpgf/430093.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii SPOR (HD)" tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="00 ⚡️ DÜNYA KUPASI",TR: Tabii SPOR (HD)
+http://vipduman.xyz:80/live/aliturk01/uwx7VAvpgf/430094.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF (FHD)" tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="00 ⚡️ DÜNYA KUPASI",DE: ZDF (FHD)
+http://vipduman.xyz:80/live/aliturk01/uwx7VAvpgf/430095.ts
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 (RAW)" tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="01 ⚡️ DÜNYA KUPASI",TR: TRT 1 (RAW)
+http://vipduman.xyz:80/live/sefabey/sefa2026/430088.ts
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1  (FHD)" tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="01 ⚡️ DÜNYA KUPASI",TR: TRT 1  (FHD)
+http://vipduman.xyz:80/live/sefabey/sefa2026/430089.ts
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 (HD)" tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="01 ⚡️ DÜNYA KUPASI",TR: TRT 1 (HD)
+http://vipduman.xyz:80/live/sefabey/sefa2026/430090.ts
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR (RAW)" tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="01 ⚡️ DÜNYA KUPASI",TR: TRT SPOR (RAW)
+http://vipduman.xyz:80/live/sefabey/sefa2026/430091.ts
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR (HD)" tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="01 ⚡️ DÜNYA KUPASI",TR: TRT SPOR (HD)
+http://vipduman.xyz:80/live/sefabey/sefa2026/430092.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii SPOR (FHD)" tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="01 ⚡️ DÜNYA KUPASI",TR: Tabii SPOR (FHD)
+http://vipduman.xyz:80/live/sefabey/sefa2026/430093.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tabii SPOR (HD)" tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="01 ⚡️ DÜNYA KUPASI",TR: Tabii SPOR (HD)
+http://vipduman.xyz:80/live/sefabey/sefa2026/430094.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF (FHD)" tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="01 ⚡️ DÜNYA KUPASI",DE: ZDF (FHD)
+http://vipduman.xyz:80/live/sefabey/sefa2026/430095.ts
