@@ -321,6 +321,35 @@ http://abd2022.xyz:80/U20YXGB/JX9K637/214284
 http://abd2022.xyz:80/U20YXGB/JX9K637/214293
 
 
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg" group-title="Fifa World Cup",TR- TRT 4Kᵁᴴᴰ
+http://sport-birutv.my.id:80/play/live.php?mac=00:1A:79:65:FA:D4&stream=916657&extension=ts&play_token=X85tHZtCLz
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg" group-title="Fifa World Cup",AR- BEIN 4Kᵁᴴᴰ
+http://sport-birutv.my.id:80/play/live.php?mac=00:1A:79:65:FA:D4&stream=2034168&extension=ts&play_token=ms7mVDMVLG
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg" group-title="Fifa World Cup",AR- BEIN 4Kᵁᴴᴰ
+http://sport-birutv.my.id:80/play/live.php?mac=00:1A:79:65:FA:D4&stream=2034168&extension=ts&play_token=ms7mVDMVLG
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg" group-title="Fifa World Cup",DE- FUSSBALL 1 4Kᵁᴴᴰ
+http://sport-birutv.my.id:80/play/live.php?mac=00:1A:79:65:FA:D4&stream=2090204&extension=ts&play_token=XGTY4cvrBQ
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg" group-title="Fifa World Cup",DE- FUSSBALL 2 4Kᵁᴴᴰ
+http://sport-birutv.my.id:80/play/live.php?mac=00:1A:79:65:FA:D4&stream=2090203&extension=ts&play_token=iysgWwaOAc
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg" group-title="Fifa World Cup",DE- FUSSBALL 3 4Kᵁᴴᴰ
+http://sport-birutv.my.id:80/play/live.php?mac=00:1A:79:65:FA:D4&stream=2090202&extension=ts&play_token=aOhoDiNMHp
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg" group-title="Fifa World Cup",FR- M6 4Kᵁᴴᴰ
+http://sport-birutv.my.id:80/play/live.php?mac=00:1A:79:65:FA:D4&stream=526148&extension=ts&play_token=Iry4y3G87A
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg" group-title="Fifa World Cup",ES- LA 1 4Kᵁᴴᴰ
+http://sport-birutv.my.id:80/play/live.php?mac=00:1A:79:65:FA:D4&stream=1620282&extension=ts&play_token=Opilny3bun
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg" group-title="Fifa World Cup",RO- DİGİ 4Kᵁᴴᴰ
+http://sport-birutv.my.id:80/play/live.php?mac=00:1A:79:65:FA:D4&stream=1632122&extension=ts&play_token=mCLO5hWpiL
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg" group-title="Fifa World Cup",SE- V SPORT 4Kᵁᴴᴰ
+http://sport-birutv.my.id:80/play/live.php?mac=00:1A:79:65:FA:D4&stream=1632123&extension=ts&play_token=nmIdtzJkFF
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg" group-title="Fifa World Cup",UK- SKY SPORTS 4Kᵁᴴᴰ
+http://sport-birutv.my.id:80/play/live.php?mac=00:1A:79:65:FA:D4&stream=1471387&extension=ts&play_token=25XfeWElfm
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg" group-title="Fifa World Cup",UK- SKY SPORTS F1 4Kᵁᴴᴰ
+http://sport-birutv.my.id:80/play/live.php?mac=00:1A:79:65:FA:D4&stream=1471382&extension=ts&play_token=hDnsAjrMQB
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg" group-title="Fifa World Cup",PL- LOVE NATURE 4Kᵁᴴᴰ
+http://sport-birutv.my.id:80/play/live.php?mac=00:1A:79:65:FA:D4&stream=1131804&extension=ts&play_token=4GaFSAgtco
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg" group-title="Fifa World Cup",UK- LOVE NATURE 4Kᵁᴴᴰ
+https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
+
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 (RAW)" tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="01 ⚡️ DÜNYA KUPASI",TR: TRT 1 (RAW)
 http://vipduman.xyz:80/live/sefabey/sefa2026/430088.ts
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1  (FHD)" tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="01 ⚡️ DÜNYA KUPASI",TR: TRT 1  (FHD)
