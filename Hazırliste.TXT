@@ -1,33 +1,33 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="Trt1" tvg-group="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 1 (4K)
+#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 1 (4K)
 http://abd2022.xyz/live/5AP8QGH/JYHC5W1/317158.m3u8
-#EXTINF:-1 tvg-id="Trt1" tvg-group="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 2 (4K)
+#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 2 (4K)
 http://abd2022.xyz/live/5AP8QGH/JYHC5W1/317159.m3u8
-#EXTINF:-1 tvg-id="Trt1" tvg-group="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 3 (4K)
+#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 3 (4K)
 http://abd2022.xyz/live/5AP8QGH/JYHC5W1/317162.m3u8
-#EXTINF:-1 tvg-id="Trt1" tvg-group="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 4 (4K)
+#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 4 (4K)
 http://abd2022.xyz/live/5AP8QGH/JYHC5W1/317163.m3u8
-#EXTINF:-1 tvg-id="Trt1" tvg-group="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 5 (4K)
+#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 5 (4K)
 http://abd2022.xyz/live/5AP8QGH/JYHC5W1/317164.m3u8
-#EXTINF:-1 tvg-id="Trt1" tvg-group="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 6 (4K)
+#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 6 (4K)
 http://abd2022.xyz/live/5AP8QGH/JYHC5W1/317165.m3u8
-#EXTINF:-1 tvg-id="Trt1" tvg-group="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 7 (4K)
+#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 7 (4K)
 http://abd2022.xyz/live/5AP8QGH/JYHC5W1/317166.m3u8
-#EXTINF:-1 tvg-id="Trt1" tvg-group="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 1 (2K)
+#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 1 (2K)
 http://abd2022.xyz/live/5AP8QGH/JYHC5W1/317158.m3u8
-#EXTINF:-1 tvg-id="Trt1" tvg-group="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 2 (2K)
+#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 2 (2K)
 http://abd2022.xyz/live/5AP8QGH/JYHC5W1/317159.m3u8
-#EXTINF:-1 tvg-id="Trt1" tvg-group="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 3 (2K)
+#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 3 (2K)
 http://abd2022.xyz/live/5AP8QGH/JYHC5W1/317162.m3u8
-#EXTINF:-1 tvg-id="Trt1" tvg-group="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 4 (2K)
+#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 4 (2K)
 http://abd2022.xyz/live/5AP8QGH/JYHC5W1/317163.m3u8
-#EXTINF:-1 tvg-id="Trt1" tvg-group="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 5 (2K)
+#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 5 (2K)
 http://abd2022.xyz/live/5AP8QGH/JYHC5W1/317164.m3u8
-#EXTINF:-1 tvg-id="Trt1" tvg-group="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 6 (2K)
+#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 6 (2K)
 http://abd2022.xyz/live/5AP8QGH/JYHC5W1/317165.m3u8
-#EXTINF:-1 tvg-id="Trt1" tvg-group="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 7 (2K)
+#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 7 (2K)
 http://abd2022.xyz/live/5AP8QGH/JYHC5W1/317166.m3u8
-#EXTINF:-1 tvg-id="Trt1" tvg-group="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Servus Tv
+#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Servus Tv
 https://rbmn-live.akamaized.net/hls/live/665268/Wetterpanorama/master.m3u8
 
 #EXTM3U
