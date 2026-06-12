@@ -1,41 +1,19 @@
 #EXTM3U 
+
+#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg" tvg-id="CTSport.cz@SD" ,ČT Sport (720p)
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
 #EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 1 (4K)
 http://abd2022.xyz/live/5AP8QGH/JYHC5W1/317158.m3u8
 #EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 2 (4K)
 http://abd2022.xyz/live/5AP8QGH/JYHC5W1/317159.m3u8
-#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 3 (4K)
-http://abd2022.xyz/live/5AP8QGH/JYHC5W1/317162.m3u8
-#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 4 (4K)
-http://abd2022.xyz/live/5AP8QGH/JYHC5W1/317163.m3u8
-#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 5 (4K)
-http://abd2022.xyz/live/5AP8QGH/JYHC5W1/317164.m3u8
-#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 6 (4K)
-http://abd2022.xyz/live/5AP8QGH/JYHC5W1/317165.m3u8
-#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 7 (4K)
-http://abd2022.xyz/live/5AP8QGH/JYHC5W1/317166.m3u8
-#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 1 (2K)
-http://abd2022.xyz/live/5AP8QGH/JYHC5W1/317158.m3u8
-#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 2 (2K)
-http://abd2022.xyz/live/5AP8QGH/JYHC5W1/317159.m3u8
-#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 3 (2K)
-http://abd2022.xyz/live/5AP8QGH/JYHC5W1/317162.m3u8
-#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 4 (2K)
-http://abd2022.xyz/live/5AP8QGH/JYHC5W1/317163.m3u8
-#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 5 (2K)
-http://abd2022.xyz/live/5AP8QGH/JYHC5W1/317164.m3u8
-#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 6 (2K)
-http://abd2022.xyz/live/5AP8QGH/JYHC5W1/317165.m3u8
-#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 7 (2K)
-http://abd2022.xyz/live/5AP8QGH/JYHC5W1/317166.m3u8
-#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg" tvg-id="CTSport.cz@SD" ,ČT Sport (720p)
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
 
-#EXTM3U
+
 #EXTINF:-1 group-title="VIP | WORLD CUP 2026 4K" tvg-logo="https://go4.pw/EUROPE/UK/UK.png" tvg-name="##### ENGLISH #####" ,##### ENGLISH #####
 http://abd2022.xyz:80/U20YXGB/JX9K637/317157
 #EXTINF:-1 group-title="VIP | WORLD CUP 2026 4K" tvg-logo="https://go4.pw/wc26.png" tvg-name="EN - NO MATCH" ,EN - NO MATCH
-http://abd2022.xyz:80/U20YXGB/JX9K637/364445
+http://supervc21.xyz:80/U20YXGB/JX9K637/364445
 #EXTINF:-1 group-title="VIP | WORLD CUP 2026 4K" tvg-logo="https://go4.pw/wc26.png" tvg-name="EN - NO MATCH" ,EN - NO MATCH
 http://abd2022.xyz:80/U20YXGB/JX9K637/364446
 #EXTINF:-1 group-title="VIP | WORLD CUP 2026 4K" tvg-logo="https://go4.pw/wc26.png" tvg-name="EN - NO MATCH" ,EN - NO MATCH
@@ -350,6 +328,7 @@ http://sport-birutv.my.id:80/play/live.php?mac=00:1A:79:65:FA:D4&stream=1471382&
 http://sport-birutv.my.id:80/play/live.php?mac=00:1A:79:65:FA:D4&stream=1131804&extension=ts&play_token=4GaFSAgtco
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg" group-title="Fifa World Cup",UK- LOVE NATURE 4Kᵁᴴᴰ
 https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
+
 
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 (RAW)" tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="01 ⚡️ DÜNYA KUPASI",TR: TRT 1 (RAW)
 http://vipduman.xyz:80/live/sefabey/sefa2026/430088.ts
