@@ -34,6 +34,8 @@ http://vipduman.xyz:80/live/sefabey/sefa2026/430095.ts
 
 #EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg" tvg-id="CTSport.cz@SD" ,Fifa Live 1
 https://edge3.xmediaget.com/hls-live/19392034/1/mediaplaylist.m3u8?s=52da0d2a42d80051a1df79c232f7361ca90a52e9f81c7bbe561f067b2ac09194&t=1781296560652&ai=5000&av=1&ui=0
+#EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg" tvg-id="CTSport.cz@SD" ,Fifa Live 2
+https://andro.226503.xyz/checklist/androstreamliveexn1.m3u8
 
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Fifa World Cup Tekrar Yayın",REPLAY INFO ᴴᴰ
 
