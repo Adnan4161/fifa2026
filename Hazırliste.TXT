@@ -46,48 +46,48 @@ https://vixxox.cdx-08191.space/1781645708/e4be12a26cc34264b91a8ce227d7a969/cx7uk
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Fifa World Cup Tekrar Yayın",REPLAY INFO ᴴᴰ
 
 http://watchingt.site:80/play/live.php?mac=00:1A:79:9C:7C:BC&stream=1393010&extension=ts&play_token=jRC8fMRujr
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Fifa World Cup Tekrar Yayın",REPLAY 1 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY",WORLD CUP 2026 REPLAY 1 ᴴᴰ
 
-http://weaseltv.live:80/play/live.php?mac=00:1A:79:3C:4F:31&stream=2085221&extension=ts&play_token=RG6mM5W8x9
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Fifa World Cup Tekrar Yayın",REPLAY 2 ᴴᴰ
+http://watchingt.site:80/play/live.php?mac=00:1A:79:9C:7C:BC&stream=1393009&extension=ts&play_token=TrJMiUpIhg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY",WORLD CUP 2026 REPLAY 2 ᴴᴰ
 
-http://weaseltv.live:80/play/live.php?mac=00:1A:79:3C:4F:31&stream=2085220&extension=ts&play_token=Ks0yCFDMno
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Fifa World Cup Tekrar Yayın",REPLAY 3 ᴴᴰ
+http://watchingt.site:80/play/live.php?mac=00:1A:79:9C:7C:BC&stream=1393008&extension=ts&play_token=3wtSNhUH7b
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY",WORLD CUP 2026 REPLAY 3 ᴴᴰ
 
-http://weaseltv.live:80/play/live.php?mac=00:1A:79:3C:4F:31&stream=2085219&extension=ts&play_token=Rqqd04IEYb
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Fifa World Cup Tekrar Yayın",REPLAY 4 ᴴᴰ
+http://watchingt.site:80/play/live.php?mac=00:1A:79:9C:7C:BC&stream=1393007&extension=ts&play_token=XfPl0geIRG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY",WORLD CUP 2026 REPLAY 4 ᴴᴰ
 
-http://weaseltv.live:80/play/live.php?mac=00:1A:79:3C:4F:31&stream=2085218&extension=ts&play_token=5TxH5ifleL
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Fifa World Cup Tekrar Yayın",REPLAY 5 ᴴᴰ
+http://watchingt.site:80/play/live.php?mac=00:1A:79:9C:7C:BC&stream=1393006&extension=ts&play_token=eYwA0FWfz8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY",WORLD CUP 2026 REPLAY 5 ᴴᴰ
 
-http://weaseltv.live:80/play/live.php?mac=00:1A:79:3C:4F:31&stream=2085217&extension=ts&play_token=O0KpiGJ92J
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Fifa World Cup Tekrar Yayın",REPLAY 6 ᴴᴰ
+http://watchingt.site:80/play/live.php?mac=00:1A:79:9C:7C:BC&stream=1393005&extension=ts&play_token=WpBBZDnyGf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY",WORLD CUP 2026 REPLAY 6 ᴴᴰ
 
-http://weaseltv.live:80/play/live.php?mac=00:1A:79:3C:4F:31&stream=2085216&extension=ts&play_token=90aKk2yftm
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Fifa World Cup Tekrar Yayın",270115 REPLAY 7 ᴴᴰ
+http://watchingt.site:80/play/live.php?mac=00:1A:79:9C:7C:BC&stream=1393004&extension=ts&play_token=hmfPxpofSj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY",WORLD CUP 2026 REPLAY 7 ᴴᴰ
 
-http://weaseltv.live:80/play/live.php?mac=00:1A:79:3C:4F:31&stream=2085215&extension=ts&play_token=ish8ue8Fle
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Fifa World Cup Tekrar Yayın",270115 REPLAY 8 ᴴᴰ
+http://watchingt.site:80/play/live.php?mac=00:1A:79:9C:7C:BC&stream=1393003&extension=ts&play_token=Bp2u0AtoLq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY",WORLD CUP 2026 REPLAY 8 ᴴᴰ
 
-http://weaseltv.live:80/play/live.php?mac=00:1A:79:3C:4F:31&stream=2085214&extension=ts&play_token=O327THfd1A
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Fifa World Cup Tekrar Yayın",270115 REPLAY 9 ᴴᴰ
+http://watchingt.site:80/play/live.php?mac=00:1A:79:9C:7C:BC&stream=1393002&extension=ts&play_token=E5pM4V1A55
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY",WORLD CUP 2026 REPLAY 9 ᴴᴰ
 
-http://weaseltv.live:80/play/live.php?mac=00:1A:79:3C:4F:31&stream=2085213&extension=ts&play_token=cjHc5O1u7V
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Fifa World Cup Tekrar Yayın",270115 REPLAY 10 ᴴᴰ
+http://watchingt.site:80/play/live.php?mac=00:1A:79:9C:7C:BC&stream=1393001&extension=ts&play_token=7NrfuleS2N
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY",WORLD CUP 2026 REPLAY 10 ᴴᴰ
 
-http://weaseltv.live:80/play/live.php?mac=00:1A:79:3C:4F:31&stream=2085212&extension=ts&play_token=E8VrFpHJYt
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Fifa World Cup Tekrar Yayın",270115 REPLAY 11 ᴴᴰ
+http://watchingt.site:80/play/live.php?mac=00:1A:79:9C:7C:BC&stream=1393000&extension=ts&play_token=yUMtrBi23r
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY",WORLD CUP 2026 REPLAY 11 ᴴᴰ
 
-http://weaseltv.live:80/play/live.php?mac=00:1A:79:3C:4F:31&stream=2085211&extension=ts&play_token=m5Wa8UCPQ1
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Fifa World Cup Tekrar Yayın",270115 REPLAY 12 ᴴᴰ
+http://watchingt.site:80/play/live.php?mac=00:1A:79:9C:7C:BC&stream=1392999&extension=ts&play_token=YnNraqabZA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY",WORLD CUP 2026 REPLAY 12 ᴴᴰ
 
-http://weaseltv.live:80/play/live.php?mac=00:1A:79:3C:4F:31&stream=2085210&extension=ts&play_token=l7xN6v0Mqk
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Fifa World Cup Tekrar Yayın",270115 REPLAY 13 ᴴᴰ
+http://watchingt.site:80/play/live.php?mac=00:1A:79:9C:7C:BC&stream=1392998&extension=ts&play_token=U0VPbK72FI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY",WORLD CUP 2026 REPLAY 13 ᴴᴰ
 
-http://weaseltv.live:80/play/live.php?mac=00:1A:79:3C:4F:31&stream=2085209&extension=ts&play_token=vQ29K5xeso
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Fifa World Cup Tekrar Yayın",270115 REPLAY 14 ᴴᴰ
+http://watchingt.site:80/play/live.php?mac=00:1A:79:9C:7C:BC&stream=1392997&extension=ts&play_token=WNlu9ZltLj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY",WORLD CUP 2026 REPLAY 14 ᴴᴰ
 
-http://weaseltv.live:80/play/live.php?mac=00:1A:79:3C:4F:31&stream=2085208&extension=ts&play_token=aSYrBWk7tW
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Fifa World Cup Tekrar Yayın",270115 REPLAY 15 ᴴᴰ
+http://watchingt.site:80/play/live.php?mac=00:1A:79:9C:7C:BC&stream=1392996&extension=ts&play_token=Oj7Q91pW7u
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY",WORLD CUP 2026 REPLAY 15 ᴴᴰ
 
-http://weaseltv.live:80/play/live.php?mac=00:1A:79:3C:4F:31&stream=2085207&extension=ts&play_token=2JtWPcZbSz
+http://watchingt.site:80/play/live.php?mac=00:1A:79:9C:7C:BC&stream=1392995&extension=ts&play_token=uWQBwIpd2f
