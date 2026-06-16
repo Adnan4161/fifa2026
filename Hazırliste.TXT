@@ -40,7 +40,7 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg" tvg-id="CTSport.cz@SD" ,Fifa Live 3
 https://andro.226503.xyz/checklist/androstreamliveexn1.m3u8
 #EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg" tvg-id="CTSport.cz@SD" ,Fifa Live 4
-https://vomos.phantemlis.top/premium39/tracks-v1a1/mono.m3u8?md5=_gTFia9tSHmArvZVLmew2A&expires=1781418437
+https://vixxox.cdx-08191.space/1781645708/e4be12a26cc34264b91a8ce227d7a969/cx7ukl5eEafGSLlfazqvXzpdVGR0N0OINJIiG4R_k0I/fox-usa.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="Fifa World Cup Tekrar Yayın",REPLAY INFO ᴴᴰ
