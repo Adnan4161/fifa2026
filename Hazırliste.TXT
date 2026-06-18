@@ -7,7 +7,7 @@ http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 1 (4K)
 http://tvgold.top:8080/GOKHANBABAS/ZeE90EY0A8/544072
 #EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Türkiye 2 (4K)
-http://http://digi55.xyz/5AP8QGH/JYHC5W1/317159.m3u8
+https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=8icti7xc1guz&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 #EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", ČT Sport HD (Çek)
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg", Irib3 (İran)
