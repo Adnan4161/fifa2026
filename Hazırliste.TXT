@@ -1,19 +1,17 @@
 #EXTM3U 
-#EXTINF:-1 group-title="FIFA World Cup 2026 4K",CA-TSN 4Kᵁᴴᴰ
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="FIFA World Cup 2026 4K",CA-TSN 4Kᵁᴴᴰ
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
-#EXTINF:-1 group-title="FIFA World Cup 2026 4K",CA- TSN 4Kᵁᴴᴰ
-http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465866
-#EXTINF:-1 group-title="FIFA World Cup 2026 4K",DE- Fussball TV 1 4Kᵁᴴᴰ
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="FIFA World Cup 2026 4K",DE- Fussball TV 1 4Kᵁᴴᴰ
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465825
-#EXTINF:-1 group-title="FIFA World Cup 2026 4K",DE- Fussball TV 2 4Kᵁᴴᴰ
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="FIFA World Cup 2026 4K",DE- Fussball TV 2 4Kᵁᴴᴰ
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465822
-#EXTINF:-1 group-title="FIFA World Cup 2026 4K",DE- Fussball TV 3 4Kᵁᴴᴰ
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="FIFA World Cup 2026 4K",DE- Fussball TV 3 4Kᵁᴴᴰ
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465809
-#EXTINF:-1 group-title="FIFA World Cup 2026 4K",AR- beIN SPORTS 4K HDRᵁᴴᴰ
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="FIFA World Cup 2026 4K",AR- beIN SPORTS 4K HDRᵁᴴᴰ
 http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1950411
-#EXTINF:-1 group-title="FIFA World Cup 2026 4K",HK- NOW Sports 616 4Kᵁᴴᴰ
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="FIFA World Cup 2026 4K",HK- NOW Sports 616 4Kᵁᴴᴰ
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465865
-#EXTINF:-1 group-title="FIFA World Cup 2026 4K",HK- NOW Sports 617 4Kᵁᴴᴰ
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/9hm7x33.png" group-title="FIFA World Cup 2026 4K",HK- NOW Sports 617 4Kᵁᴴᴰ
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465864
 
 #EXTINF:-1 group-title="Fifa World Cup" tvg-logo="https://www.shutterstock.com/image-vector/official-fifa-world-cup-2026-600w-2696081651.jpg" tvg-id="CTSport.cz@SD" ,ČT Sport (720p)
