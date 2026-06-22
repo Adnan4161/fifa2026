@@ -61,7 +61,7 @@ http://149.102.245.111/17/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY",WORLD CUP 2026 REPLAY INFO ᴴᴰ
 
-http://procdnnet.eu:80/play/live.php?mac=00:1A:79:7D:65:6D&stream=2085222&extension=ts&play_token=niFBZIURYz
+http://supervc21.xyz:80/play/live.php?mac=00:1A:79:7D:65:6D&stream=2085222&extension=ts&play_token=niFBZIURYz
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="WORLD CUP 2026 REPLAY",WORLD CUP 2026 REPLAY 1 ᴴᴰ
 
 http://procdnnet.eu:80/play/live.php?mac=00:1A:79:7D:65:6D&stream=2085221&extension=ts&play_token=yrJOTLXizi
